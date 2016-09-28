@@ -1,8 +1,8 @@
 #include <Stepper.h>
 
-/* Use File->Load Prog to
-   load a different Program
-*/
+/* Esempio di funzionamento della libreria stepper
+ * Use File->Load Prog to load a different Program
+ */
 
 int count;
 Stepper motore = Stepper(20, 11, 12);
