@@ -6,7 +6,7 @@ Progetto Arduino e tesina per l'esame
 
 Questo progetto fornisce anche un file di configurazione per i dispositivi simulati, per lavorare in un ambiente standardizzato.
 
-inserisci il file myArduPrefs.txt nella cartella del simulatore, e apri il file di configurazione dei dispositivi con il programma, dalla sezione I/O devices.
+Inserisci il file myArduPrefs.txt nella cartella del simulatore, e apri il file di configurazione dei dispositivi con il programma, dalla sezione I/O devices.
 
 ## Da fare
 ### Utile
@@ -19,4 +19,4 @@ inserisci il file myArduPrefs.txt nella cartella del simulatore, e apri il file 
 * aggiungere programmi di prova
 
 ## Licenza
-il progetto, che include ogni sketch arduino, viene distribuito sotto licenza gnu gpl v3, mentre gli altri file di testo sono di dominio pubblico.
+Il progetto, che include ogni sketch arduino, viene distribuito sotto licenza gnu gpl v3, mentre gli altri file di testo sono di dominio pubblico.Vedi file LICENSE.
