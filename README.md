@@ -12,6 +12,11 @@ inserisci il file myArduPrefs.txt nella cartella del simulatore, e apri il file 
 ### Utile
 * aggiungere link utili
 * aggiungere documenti, disegni e progetti
+* decidere che licenza usare per gli sketch e per gli altri file
+* creare una struttura per questo file readme.md
 
 ### Opzionale
 * aggiungere programmi di prova
+
+## Licenza
+il progetto, che include ogni sketch arduino, viene distribuito sotto licenza gnu gpl v3, mentre gli altri file di testo sono di dominio pubblico.
