@@ -20,10 +20,11 @@ Gli sketch nella cartella esempi si possono aprire con l'IDE di Arduino:
 * aggiungere link utili
 * aggiungere documenti, disegni e progetti
 * decidere che licenza usare per gli sketch e per gli altri file
-* creare una struttura per questo file readme.md
+* creare una struttura per questo file leggimi.md
 
 ### Opzionale
 * aggiungere programmi di prova
+* convertire gli elementi della lista di cose da fare in issues
 
 ## Licenza
 Il progetto, che include ogni sketch arduino, viene distribuito sotto licenza gnu gpl v3, mentre gli altri file di testo sono di dominio pubblico.Vedi file LICENSE.
