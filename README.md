@@ -20,7 +20,7 @@ Gli sketch nella cartella esempi si possono aprire con l'IDE di Arduino:
 * aggiungere link utili
 * aggiungere documenti, disegni e progetti
 * decidere che licenza usare per gli sketch e per gli altri file
-* creare una struttura per questo file leggimi.md
+* creare una struttura per questo file README.md
 
 ### Opzionale
 * aggiungere programmi di prova
