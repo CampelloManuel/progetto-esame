@@ -1,0 +1,5 @@
+Argomenti:
+cogenerazione
+motore asincrono
+cose fatte
+sonde ntc
