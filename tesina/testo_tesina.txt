@@ -3,3 +3,5 @@ cogenerazione
 motore asincrono
 cose fatte
 sonde ntc
+componenti del quadro
+bollitore
