@@ -17,17 +17,13 @@ Gli sketch nella cartella esempi si possono aprire con l'IDE di Arduino:
 
 ## Da fare
 ### Utile
-* aggiungere link utili
 * aggiungere documenti, disegni e progetti
-* decidere che licenza usare per gli sketch e per gli altri file
-* creare una struttura per questo file README.md
 
 ### Opzionale
 * aggiungere programmi di prova
-* convertire gli elementi della lista di cose da fare in issues
 
 ## Licenza
-Gli sketch di arduino, con estensione .ino o .h, vengono distribuiti sotto licenza GNU GPL v3.
+Gli sketch di arduino vengono distribuiti sotto licenza GNU GPL v3.
 Gli altri file di testo o di configurazione sono di dominio pubblico.
 Vedi file LICENSE. Puoi consultare una copia online della licenza all'indirizzo https://www.gnu.org/licenses/gpl-3.0-standalone.html
 
