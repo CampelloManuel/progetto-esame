@@ -33,3 +33,9 @@ Vedi file LICENSE. Puoi consultare una copia online della licenza all'indirizzo 
 
 ### librerie richieste
 [Arduino IR remote](https://github.com/z3t0/Arduino-IRremote) : la versione compresa nell'ide di arduino non funziona
+
+### Risorse
+* __ARDUINO THE BEST__ https://www.youtube.com/channel/UCnneOHtpaSsYQQd1LTStLbg
+* __PODERAK__ https://www.youtube.com/user/MartinoLutero
+* __MGELETTRONICA__ https://www.youtube.com/user/MGElettronica
+* http://www.mauroalfieri.it/corso-arduino-on-line.html
