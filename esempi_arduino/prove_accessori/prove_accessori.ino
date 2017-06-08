@@ -16,9 +16,11 @@ Servo motoreServo; // esempio con servomotore
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);	//pin collegati
 // variabili per telecomando IR
 const int pin_ricevitore = 11;	
-int valore_ricevuto_IR = 0;
 IRrecv ricevitore(pin_ricevitore);
 decode_results risultati;
+// variabili per sensore PIR
+const int pin_pir = 11;
+int pir_val = 0;
 
 void setup()
 {
@@ -27,6 +29,7 @@ void setup()
 	lcd.begin(16, 2);	//righe & colonne del display
 	lcd.print("Prova display");
 	
+	pinMode(pin_pir, INPUT);
 	servoMotore.setSpeed(30);
 	motoreServo.attach(A1);
 	ricevitore.enableIRIn();
@@ -42,10 +45,13 @@ void loop()
 	lcd.print(conto % 50);
 	
 	if ( ricevitore.decode(&risultati) ) {
-		valore_ricevuto_IR = risultati.value;
+		Serial.println(risultati.value);
+		Serial.println(risultati.value,HEX);
 		ricevitore.resume();
-    }
-	Serial.println(valore_ricevuto_IR);
+    }	
+	
+	pir_val = digitalRead(pin_pir);
+	Serial.println(pir_val);
 	
 	count++;
 	delay(250);
