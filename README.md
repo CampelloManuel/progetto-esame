@@ -22,3 +22,12 @@ Vedi file LICENSE. Puoi consultare una copia online della licenza all'indirizzo 
 * __PODERAK__ https://www.youtube.com/user/MartinoLutero
 * __MGELETTRONICA__ https://www.youtube.com/user/MGElettronica
 * http://www.mauroalfieri.it/corso-arduino-on-line.html
+
+### Sito web del progetto
+Disponibile all'indirizzo https://manulinkraft.github.io/progetto-esame/ (in fase provvisoria).  
+la pagina serve un file "README.md" convertito dalla tesina in word con 
+``` bash
+sudo gem install word-to-markdown
+w2m tesina.docx > README.md
+```
+con qualche ritocco a mano, esteticamente necessario
