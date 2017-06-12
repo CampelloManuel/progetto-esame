@@ -1,4 +1,4 @@
-## progetto-esame
+## Progetto regolazione cogeneratore, di *Campello & Fusco*
 Progetto Arduino e tesina per l'esame
 
 ### Come installare e usare il Simulatore
