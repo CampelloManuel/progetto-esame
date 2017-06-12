@@ -2,3 +2,4 @@ attuatore: valvola termostatica - resistenza elettrica ? si!
 cartiglio: classe
 scala linee tratteggiate nel disegno idraulico
 lettere / numeri  sui disegni con cartiglio
+CONTROLLARE ESECUZIONE
