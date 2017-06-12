@@ -6,6 +6,7 @@
 if [[ $(gem list --local | grep word-to-markdown) ]]; then
 	rm README.md
 	w2m ../tesina/tesina.docx > README.md
+	sed -i -e 's/# MAPPA CONCETTUALE/# MAPPA CONCETTUALE\n![](mappa_concettuale.png)/g' README.md
 else
 	echo "word-to-markdown non è installato"
 	echo "provo a installarlo, poi riavvia lo script"
