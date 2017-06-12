@@ -38,7 +38,7 @@ _La cogenerazione è un processo per ottimizzare la combustione, generando elett
 Studenti: Fusco Alberto & Campello Manuel
 
 # MAPPA CONCETTUALE
-![](mappa_concettuale.png)
+![](./mappa_concettuale.png)
 
 
 
