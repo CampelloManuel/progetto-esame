@@ -5,11 +5,11 @@
 
 # ED ENERGIA
 
-#
+
 
 # Articolazione: ENERGIA
 
-#
+
 
 # ESAME DI STATO
 
@@ -39,6 +39,8 @@ Studenti: Fusco Alberto & Campello Manuel
 
 # MAPPA CONCETTUALE
 ![](./mappa_concettuale.png)
+
+
 
 
 
@@ -118,8 +120,6 @@ _1.3.        Motore asincrono trifase_
 3.ESPERIENZA DI LAVORO
 
 4. CONCLUSIONI E RIFLESSIONI
-
-
 
 Da fare: mettere numero di pagine su indice (senza i puntini del cazzo)
 
