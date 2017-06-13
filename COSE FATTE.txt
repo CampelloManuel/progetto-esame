@@ -1,0 +1,24 @@
+controllato disegni (vedi issues github)
+cancellato immagini (pull, poi sostituisci TUTTA LA CARTELLA, poi push)
+README.md
+cartella datasheets/ con nuovi pdf
+bisogna: convertire tesina in sito
+foto disegno idraulico.dwg (con sostituzione valvola / carburatore)
+foto schemi arduino con fritzing
+collegamento motore elettrico per radiatore di raffreddaemento: menzione su tesina
+riferimento servomotore futaba s3003(su parte teorica)
+trasmissione dati ethernet(su capitolo regolazione)
+schema collegamento cavi ethernet (aggiungere su repo github?):
+	scatola relè:
+		blubianco -> terra
+		verde -> segnale di comando 
+		verdebianco -> 5volt
+	servomotore:
+		marrone -> 5volt
+		marronebianco -> segnale comando
+		blu -> terra
+	alternatore:
+		arancione -> questi due cavi hanno una ddp proporzionale ai giri dell'alternatore
+		arancionebianco ->
+sonde ntc: riferimento a wheatstone & sih 010
+render docs/README.md

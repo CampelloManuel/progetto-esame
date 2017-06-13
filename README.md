@@ -25,9 +25,5 @@ Vedi file LICENSE. Puoi consultare una copia online della licenza all'indirizzo 
 
 ### Sito web del progetto
 Disponibile all'indirizzo https://manulinkraft.github.io/progetto-esame/ (in fase provvisoria).  
-la pagina serve un file "README.md" convertito dalla tesina in word con 
-``` bash
-sudo gem install word-to-markdown
-w2m tesina.docx > README.md
-```
+la pagina serve un file "README.md" convertito dalla tesina in word con lo script `compila.sh` nella cartella `docs/`  
 con qualche ritocco a mano, esteticamente necessario
