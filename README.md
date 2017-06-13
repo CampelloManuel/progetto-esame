@@ -27,3 +27,17 @@ Vedi file LICENSE. Puoi consultare una copia online della licenza all'indirizzo 
 Disponibile all'indirizzo https://manulinkraft.github.io/progetto-esame/ (in fase provvisoria).  
 la pagina serve un file "README.md" convertito dalla tesina in word con lo script `compila.sh` nella cartella `docs/`  
 con qualche ritocco a mano, esteticamente necessario
+
+## Collegamenti elettrici
+schema di collegamento dei cavi nell'ethernet:
+* scatola relè:
+	* blu-bianco -> terra (0 volt)
+	* verde -> segnale di comando 
+	* verde-bianco -> 5 volt
+* servomotore:
+	* marrone -> 5volt
+	* marrone-bianco -> segnale comando
+	* blu -> terra (0 volt)
+* alternatore:
+	* arancione -> questi due cavi hanno una ddp proporzionale ai giri dell'alternatore
+	* arancionebianco
