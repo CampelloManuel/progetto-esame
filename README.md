@@ -1,5 +1,5 @@
 ## Progetto regolazione cogeneratore, di *Campello & Fusco*
-Progetto Arduino e tesina per l'esame
+Progetto Arduino e tesina per l'esame. Per saperne di più: [bit.ly/cogeneratore](https://bit.ly/cogeneratore)
 
 ### Come installare e usare il Simulatore
 è possibile scaricare il simulatore di Arduino per windows a [questo indirizzo](https://www.sites.google.com/site/unoardusim/services).
