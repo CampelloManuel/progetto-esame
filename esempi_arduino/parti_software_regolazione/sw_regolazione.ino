@@ -35,13 +35,13 @@ void loop() {
   l_ntc = analogRead(pin_ntc);
   l_rpm = analogRead(pin_rpm);
   #ifdef DEBUG
-  Serial.print("Valore sonda ntc: ");
-  Serial.println(l_ntc+3,HEX);	//l_ntc++?
+  //Serial.print("Valore sonda ntc: ");
+  //Serial.println(l_ntc+3,HEX);  //l_ntc++?
   Serial.print("Valore sonda rpm: ");
-  Serial.println(l_rpm+8, HEX);	//l_rpm++?
+  Serial.println(l_rpm*5); //l_rpm++?
   #endif
   // attivazione servomotore, pompa e valvola a 3 vie
-  servo.write( min(pos_servo, 180) );
+  //servo.write( min(pos_servo, 180) );
   if ( false ) digitalWrite(pin_pompa,HIGH);
   if ( false ) digitalWrite(pin_valvola,HIGH);
 
