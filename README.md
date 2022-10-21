@@ -1,5 +1,5 @@
 ## Progetto regolazione cogeneratore, di *Campello & Fusco*
-Progetto Arduino e tesina per l'esame. Per saperne di più: [bit.ly/cogeneratore](https://bit.ly/cogeneratore)
+Progetto Arduino e tesina per l'esame. Per saperne di più, [visita la tesina web](https://campellomanuel.github.io/progetto-esame/)
 
 ### Come installare e usare il Simulatore
 è possibile scaricare il simulatore di Arduino per windows a [questo indirizzo](https://www.sites.google.com/site/unoardusim/services).
@@ -24,7 +24,7 @@ Vedi file LICENSE. Puoi consultare una copia online della licenza all'indirizzo 
 * http://www.mauroalfieri.it/corso-arduino-on-line.html
 
 ### Sito web del progetto
-Disponibile all'indirizzo https://manulinkraft.github.io/progetto-esame/ (in fase provvisoria).  
+Disponibile all'indirizzo https://campellomanuel.github.io/progetto-esame/ (in fase provvisoria).  
 la pagina serve un file "README.md" convertito dalla tesina in word con lo script `compila.sh` nella cartella `docs/`  
 con qualche ritocco a mano, esteticamente necessario
 
